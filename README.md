@@ -18,7 +18,7 @@ Finder Widget
 Clock Widget
 – A sleek and customizable clock for your desktop.
 
-# Weather widget
+Weather widget
 – A sleek Weather Widget for your desktop.
 
 Requirements
