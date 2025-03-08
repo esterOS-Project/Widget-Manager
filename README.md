@@ -1,4 +1,5 @@
-esterOS Widget Manager
+esterOS Widget Manager ![logo](https://github.com/user-attachments/assets/354c9118-8de4-42d8-806d-ceb6f2c42c03)
+
 
 Overview
 
