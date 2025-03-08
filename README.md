@@ -1,27 +1,26 @@
-# Widget Manager
+esterOS Widget Manager
 
 Overview
 
 Widget Manager is a powerful and customizable widget management tool designed for esterOS 25+. It seamlessly integrates with GNOME 47+, providing an enhanced desktop experience with a variety of widgets to improve productivity and accessibility.
 
 Features
-
-# Gallery Widget
+ Gallery Widget
 – View and organize your images with ease.
 
-# Photos Widget
+Photos Widget
 – Quick access to your favorite photos and albums.
 
-# Finder Widget
+Finder Widget
 – Efficient file searching and navigation.
 
-# Clock Widget
+Clock Widget
 – A sleek and customizable clock for your desktop.
 
 # Weather widget
 – A sleek Weather Widget for your desktop.
 
-# Requirements
+Requirements
 
 Operating System: esterOS 25.3 or later
 
@@ -29,7 +28,7 @@ Desktop Environment: GNOME 47+
 
 Dependencies: Ensure you have the latest GTK and GNOME Shell extensions installed.
 
-# Usage
+Usage
 
 Open the Widget Manager by right clicking the Desktop.
 
